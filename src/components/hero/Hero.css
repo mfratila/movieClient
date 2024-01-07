@@ -40,7 +40,10 @@
     color: white;
     display: flex;
     align-items: center;
+}
 
+.movie-info {
+    color: white;
 }
 
 .movie-buttons-container {
